@@ -1,5 +1,7 @@
 # How to enable Sass in your Sveltekit projects
 
+If you are on a hurry, or have already a Sveltekit project, and want to cut all the blabbering, just <a href="https://github.com/Raffabello/sveltekit-with-sass#:~:text=Start%20from%20here%20if%20you%20already%20have%20a%20Sveltekit%20project!">click here</a>.
+
 ## Preface
 
 Starting learning a new coding language can be an awesome experience, but you can bang your head against a concrete wall if you don't know how to set it up and run it in your development environment, particularly for some special language like <a href ="https://sass-lang.com/">Sass</a> which may require some extra steps depending on your development environment.
@@ -149,7 +151,14 @@ and you are ready to develop with SASS or SCSS!
 Thank you for reading until here, if you liked the tutorial just drop a like and follow me!
 
 I am actively creating new products, and I like reaching out people around the globe sharing knowledge and networking! <br/>
-<br>So please check out my Github page for more. <br> <a href="https://x.com/Raff06179453638">I am also on X</a>, I like to connect with people that also love to create things.
+
+Feel free to check out my Github page, I love to bring ideas to life, so if you want any advice I am here to help you grow your ideas.<br>
+Furtermore I love to connect with people that also like to create new things so let's connect together.<br> I am also on X, follow me there too!
+Thank you so much!
 
 Happy coding!<br>
 *Raff*
+
+<a href="https://x.com/Raff06179453638">
+	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" height=48 width=48/>
+</a>
