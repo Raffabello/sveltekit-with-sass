@@ -45,7 +45,7 @@ For Windows OS:
 npx sv create %PROJECT_NAME% --template minimal --types ts --no-add-ons --no-install
 ```
 
-For Mac OS:
+For MacOS:
 ```shell
 npx sv create $PROJECT_NAME --template minimal --types ts --no-add-ons --no-install
 ```
