@@ -67,7 +67,7 @@ cd $PROJECT_NAME
 ## Install the SASS dependencies
 🚨 **Start from here if you already have a Sveltekit project!** <br>
 
-**What are we doing?** We are installing the <a href="https://www.npmjs.com/package/sass-embedded">sass embdedded</a> library compile your Sass code into CSS! 
+**What are we doing?** We are installing the <a href="https://www.npmjs.com/package/sass-embedded">sass embdedded</a> library that will compile your Sass code into CSS! 
 ```shell
 npm add -D sass-embedded --verbose
 ```
