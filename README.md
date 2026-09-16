@@ -4,7 +4,7 @@ If you are on a hurry, or have already a Sveltekit project, and want to cut all 
 
 ## Preface
 
-Starting learning a new coding language can be an awesome experience, but you can bang your head against a concrete wall if you don't know how to set it up and run it in your development environment, particularly for some special language like <a href ="https://sass-lang.com/">Sass</a> which may require some extra steps depending on your development environment.
+Learning a new coding language can be an awesome experience, but you can bang your head against a concrete wall if you don't know how to set it up and run it in your development environment, particularly for some special language like <a href ="https://sass-lang.com/">Sass</a> which may require some extra steps depending on your development environment.
 
 As a <a href="https://svelte.dev/docs/kit/introduction">Sveltekit</a> enthusiast, I wanted my CSS code to look cleaner, more reusable, and why not, a little more "hacky" and advanced.<br/>
 So I found <a href ="https://sass-lang.com/">Sass</a> (Syntactically Awesome Style Sheets), which completely satisfied my request. <br>
