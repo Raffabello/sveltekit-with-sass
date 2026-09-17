@@ -4,7 +4,7 @@ If you are on a hurry, or have already a Sveltekit project, and want to cut all 
 
 ## Preface
 
-Learning a new coding language can be an awesome experience, but you can bang your head against a concrete wall if you don't know how to set it up and run it in your development environment, particularly for some special language like <a href ="https://sass-lang.com/">Sass</a> which may require some extra steps depending on your development environment.
+Learning a new coding language can be an awesome experience, but you can bang your head against a concrete wall if you don't know how to set it up and run it in your development environment, particularly for some special languages like <a href ="https://sass-lang.com/">Sass</a> which may require some extra steps depending on your development environment.
 
 As a <a href="https://svelte.dev/docs/kit/introduction">Sveltekit</a> enthusiast, I wanted my CSS code to look cleaner, more reusable, and why not, a little more "hacky" and advanced.<br/>
 So I found <a href ="https://sass-lang.com/">Sass</a> (Syntactically Awesome Style Sheets), which completely satisfied my request. <br>
@@ -13,15 +13,15 @@ So I found <a href ="https://sass-lang.com/">Sass</a> (Syntactically Awesome Sty
 That's what I said ... I was blown away by Sass.<br>
 <br>
 But then I hit a concrete wall, because I asked myself:<br>
->"Can I code in Sass directly, without operational overhead?" <br>
+>"Can I code in Sass directly?" <br>
 
-And when I found that the answer was "Nyes", I just started bumping my head to the wall.
+And when I found that the answer was "Nyes", I just started banging my head to the wall.
 
-Finally, after some back and forth in my head, I found an answer to this question, and now I am happily using SCSS in my projects🥳.
+Finally, after walking back and forth for a while, I found an answer the question. Finally, now, I can use Sass directly in Sveltekit.
 
 ## Purpose
 
-<u>I created this small tutorial to help you start right away, without any guessing, developing in Sass in your **sveltekit** project.</u>
+<u>I created this small tutorial to help you start right away, without any guessing, developing in Sass in your **sveltekit** projects.</u>
 
 
 ## Set your project name
@@ -136,7 +136,7 @@ Try to copy the following block in a svelte component and see the magic happen!�
 </style>
 ```
 
-*If you want to use SASS other than SCSS just replace with lang="sass" and ... sparkles!✨ You are developing in SASS!*
+*If you want to use SASS other than SCSS just replace with lang="sass" and ... ✨ You are developing in SASS.*
 
 ### Good Job! You are all set up!
 
@@ -156,7 +156,7 @@ Feel free to check out my Github page, I love to bring ideas to life, so if you 
 Furtermore I love to connect with people that also like to create new things so let's connect together.<br> I am also on X, follow me there too!
 Thank you so much!
 
-Happy coding!<br>
+Happy coding! ;-)<br>
 *Raff*
 
 <a href="https://x.com/Raff06179453638">
