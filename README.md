@@ -1,6 +1,6 @@
 # How to enable Sass in your Sveltekit projects
 
-If you are in a hurry, or have already a Sveltekit project, and want to cut all the blabbering, just <a href="https://github.com/Raffabello/sveltekit-with-sass#:~:text=Start%20from%20here%20if%20you%20already%20have%20a%20Sveltekit%20project!">click here</a>.
+If you are in a hurry, or you have already a Sveltekit project, and you want to cut all the blabbering, just <a href="https://github.com/Raffabello/sveltekit-with-sass#:~:text=Start%20from%20here%20if%20you%20already%20have%20a%20Sveltekit%20project!">click here</a>.
 
 ## Preface
 
